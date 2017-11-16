@@ -31,7 +31,7 @@ h1{
 	font-weight: normal;
 	font-family: 'Libre Baskerville', serif;
 	border-bottom: 1px;
-	border-style: solid;
+	border-bottom-style: solid;
 	border-bottom-color: rgb(204, 204, 204);
 }
 
