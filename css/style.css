@@ -30,7 +30,7 @@ h1{
 	font-size: 5em;
 	font-weight: normal;
 	font-family: 'Libre Baskerville', serif;
-	border-width: 1px;
+	border-bottom: 1px;
 	border-style: solid;
 	border-bottom-color: rgb(204, 204, 204);
 }
