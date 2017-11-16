@@ -60,6 +60,8 @@ p{
 
 #press img{
 	border-width: 5px;
+	border-style: solid;
+	
 }
 
 #press{
@@ -69,5 +71,3 @@ p{
 footer{
 	text-align: right;
 	}
-
-
