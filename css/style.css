@@ -65,3 +65,7 @@ p{
 footer{
 	text-align: right;
 	}
+
+a: -webkit-any-link{
+	color: -webkit-link;
+}
